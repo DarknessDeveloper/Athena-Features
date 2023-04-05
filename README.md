@@ -9,8 +9,4 @@ If you open an issue, I or an admin will reply telling you that this feature req
 
 # OK, What Feature Requests Have Already Been Accepted?
 ### Here is a list of planned features based on this repository:
-<ul>
-  <li>
-    None yet! Got a feature you want? Open an Issue!
-  </li>
-</ul>
+  - [ ] Ability to punish users from the control panel.
